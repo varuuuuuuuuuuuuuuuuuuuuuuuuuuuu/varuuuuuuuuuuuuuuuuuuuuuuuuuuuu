@@ -1,0 +1,5 @@
+input(int("print the value a")
+input(int("print the value b")
+print(b value is big)
+print(a value is small)
+print(a,b)
